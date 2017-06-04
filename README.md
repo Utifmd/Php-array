@@ -3,6 +3,6 @@
 * Solution: menggunakan loop function spt; for, foreach, while etc..
 
 ## TODO
-* [] using for
-* [] using foreach
-* [] using while
+* [x] using for
+* [x] using foreach
+* [x] using while
